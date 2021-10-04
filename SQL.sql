@@ -1,0 +1,1 @@
+SELECT * FROM devnation.user_details;
